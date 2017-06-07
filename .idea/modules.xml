@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-kafka-direct/spark-kafka-direct.iml" filepath="$PROJECT_DIR$/spark-kafka-direct/spark-kafka-direct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-kafka-receivers/spark-kafka-receivers.iml" filepath="$PROJECT_DIR$/spark-kafka-receivers/spark-kafka-receivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-learn.iml" filepath="$PROJECT_DIR$/spark-learn.iml" />
+    </modules>
+  </component>
+</project>
